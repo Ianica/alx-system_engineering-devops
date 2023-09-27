@@ -11,4 +11,6 @@ The tenth script is the automation of the command rm -r
 The eleventh script is the automation of the command cd ..
 The twelveth script is the automation of the command ls -al . .. /boot
 The thirteenth script is the automation of the command file
-The fourteenth script is the automation of the command ln -s 
+The fourteenth script is the automation of the command ln -s
+The fifteenth script is the automation of the command cp -un *.html ../
+ 
