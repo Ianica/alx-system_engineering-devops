@@ -17,4 +17,4 @@ The sixteenth script is the automation of the command mv [[:upper]]*
 The seventeenth script is the automation of the command rm *~
 The eighteenth script is the automation of the command mkdir -p
 The ninteenth script is the automation of the command ls -amvp
- 
+The twentieth script is the automation of creating a magic file 
