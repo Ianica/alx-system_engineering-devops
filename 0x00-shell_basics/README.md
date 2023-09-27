@@ -10,3 +10,4 @@ The ninth script is the automation of the command rm
 The tenth script is the automation of the command rm -r
 The eleventh script is the automation of the command cd ..
 The twelveth script is the automation of the command ls -al . .. /boot
+The thirteenth script is the automation of the command file 
