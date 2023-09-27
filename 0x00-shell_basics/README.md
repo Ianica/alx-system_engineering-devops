@@ -13,4 +13,5 @@ The twelveth script is the automation of the command ls -al . .. /boot
 The thirteenth script is the automation of the command file
 The fourteenth script is the automation of the command ln -s
 The fifteenth script is the automation of the command cp -un *.html ../
+The sixteenth script is the automation of the command mv [[:upper]]*
  
