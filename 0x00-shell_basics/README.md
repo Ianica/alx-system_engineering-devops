@@ -1,1 +1,1 @@
-This my readme file for shell navigation project
+The first script is the automation of the command pwd
