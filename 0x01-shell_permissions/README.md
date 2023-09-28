@@ -10,4 +10,5 @@ The seventh file is the automation of the command chmod +114 filename
 The eighth file is the automation of the command chmod +x filename
 The ninth file is the automation of the command chmod 007 filename
 The tenth file is the automation of the command chmod 753 filename
+The eleventh file is the automation of the command chomd --reference=filename filename
 
