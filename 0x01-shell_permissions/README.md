@@ -8,4 +8,5 @@ The fifth file is the automation of the command touch filename
 The sixth file is the automation of the command chmod u+x filename
 The seventh file is the automation of the command chmod +114 filename
 The eighth file is the automation of the command chmod +x filename
+The ninth file is the automation of the command chmod 007 filename
 
