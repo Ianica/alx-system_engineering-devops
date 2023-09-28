@@ -5,4 +5,5 @@ The second file is the automation of the command id -un
 The third file is the automation of the command groups
 The fourth file is the automation of the command sudo chown u filename
 The fifth file is the automation of the command touch filename
+The sixth file is the automation of the command chmod u+x filename
 
