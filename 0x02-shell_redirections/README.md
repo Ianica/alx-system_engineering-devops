@@ -1,1 +1,1 @@
-The first file is the automation of the command echo
+This project focuses on automation of shell scripts of commands that redirect inputs and outputs on shell.
